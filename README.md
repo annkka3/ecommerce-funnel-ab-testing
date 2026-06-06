@@ -27,15 +27,15 @@
     python src/main.py
     ```
 
-    ## Business recommendation
+    ## Resume-ready bullets
+
+    - Analyzed e-commerce funnel conversion and drop-off across key steps from visit to purchase.
+- Evaluated A/B test impact on purchase conversion using uplift, two-proportion z-test and business recommendation.
+
+   ## Business recommendation
 
 The treatment group improved final purchase conversion by X pp.
 If p-value < 0.05, the variant can be considered statistically significant.
 If p-value >= 0.05, keep the test running or increase sample size.
 
-    ![Funnel conversion by group](results/funnel_conversion_by_group.png)
-
-    ## Resume-ready bullets
-
-    - Analyzed e-commerce funnel conversion and drop-off across key steps from visit to purchase.
-- Evaluated A/B test impact on purchase conversion using uplift, two-proportion z-test and business recommendation.
+![Funnel conversion by group](results/funnel_conversion_by_group.png)
