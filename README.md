@@ -27,6 +27,14 @@
     python src/main.py
     ```
 
+    ## Business recommendation
+
+The treatment group improved final purchase conversion by X pp.
+If p-value < 0.05, the variant can be considered statistically significant.
+If p-value >= 0.05, keep the test running or increase sample size.
+
+    ![Funnel conversion by group](results/funnel_conversion_by_group.png)
+
     ## Resume-ready bullets
 
     - Analyzed e-commerce funnel conversion and drop-off across key steps from visit to purchase.
