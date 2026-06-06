@@ -1,20 +1,20 @@
 # E-commerce Funnel Analytics & A/B Test
 
-    **Role:** Product Analyst / Growth Analyst  
-    **Dataset:** Synthetic / anonymized demo data created for portfolio use.  
-    **Stack:** Python, pandas, scipy, matplotlib, funnel analysis, A/B testing
+   **Role:** Product Analyst / Growth Analyst  
+   **Dataset:** Synthetic / anonymized demo data created for portfolio use.  
+   **Stack:** Python, pandas, scipy, matplotlib, funnel analysis, A/B testing
 
-    ## Business problem
+   ## Business problem
 
-    A product team needs to understand where users drop off in the purchase funnel and whether a checkout/product-page variant improves final purchase conversion.
+A product team needs to understand where users drop off in the purchase funnel and whether a checkout/product-page variant improves final purchase conversion.
 
-    ## What was built
+   ## What was built
 
-    Built a funnel analytics project with visit → product view → add to cart → checkout → purchase conversion rates, source segmentation, A/B conversion comparison, uplift calculation and statistical significance test.
+Built a funnel analytics project with visit → product view → add to cart → checkout → purchase conversion rates, source segmentation, A/B conversion comparison, uplift calculation and statistical significance test.
 
-    ## Key outputs
+   ## Key outputs
 
-    - `results/funnel_summary.csv` — funnel metrics by A/B group
+- `results/funnel_summary.csv` — funnel metrics by A/B group
 - `results/ab_test_result.csv` — conversion, uplift, z-score and p-value
 - `results/funnel_conversion_by_group.png` — visual funnel comparison
 
