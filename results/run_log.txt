@@ -1,0 +1,2 @@
+ control_conversion  variant_conversion  uplift_pct  z_score  p_value     decision
+           0.065356            0.084325    29.02436 3.946539 0.000079 ship variant
